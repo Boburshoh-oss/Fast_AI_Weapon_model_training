@@ -1,3 +1,4 @@
 fastai
 streamlit
 numpy==1.23.5
+plotly==5.13.0
